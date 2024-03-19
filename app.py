@@ -101,7 +101,7 @@ def predict_species():
     max_prob = df.loc[max_prob_class]['Probability']
 
     # Determine the corresponding image file based on the predicted species
-    image_file = max_prob_class.lower() + ".jpg"
+    image_file = max_prob_class + ".jpg"
 
     # Return the predicted class index, its corresponding probability, and the image file name
     return jsonify({'species': max_prob_class, 'probability': max_prob, 'image': image_file})
