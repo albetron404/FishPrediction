@@ -630,3 +630,7 @@ INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:32:23] "GET /classification.html HTT
 INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:32:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
 INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:32:23] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
 INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:32:23] "GET /get_model_training_details?modelType=Classification HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:43:26] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:43:26] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:43:26] "GET /get_model_training_details?modelType=Classification HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:43:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
