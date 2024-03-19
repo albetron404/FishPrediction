@@ -1,0 +1,632 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:40:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:40:36] "[33mGET /Static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:40:36] "[33mGET /images/Bream.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:40:36] "[33mGET /images/Parkki.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:40:36] "[33mGET /images/Perch.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:40:36] "[33mGET /images/Pike.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:40:36] "[33mGET /images/Roach.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:40:36] "[33mGET /images/Smelt.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:40:36] "[33mGET /images/Whitefish.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:40:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:40:39] "[33mGET /Classification.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:43:11] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:43:11] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:43:11] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:43:11] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:43:11] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:43:52] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:43:52] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:43:52] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:43:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:43:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:45:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:45:31] "[33mGET /Static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:45:31] "[33mGET /images/Bream.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:45:31] "[33mGET /images/Parkki.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:45:31] "[33mGET /images/Perch.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:45:31] "[33mGET /images/Pike.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:45:31] "[33mGET /images/Roach.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:45:31] "[33mGET /images/Smelt.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:45:31] "[33mGET /images/Whitefish.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:45:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:45:35] "[33mGET /Classification.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:46:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:46:00] "[33mGET /Static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:46:00] "[33mGET /images/Bream.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:46:00] "[33mGET /images/Parkki.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:46:00] "[33mGET /images/Perch.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:46:00] "[33mGET /images/Pike.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:46:00] "[33mGET /images/Roach.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:46:00] "[33mGET /images/Smelt.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:46:00] "[33mGET /images/Whitefish.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:46:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:46:27] "[33mGET /Static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:46:27] "[33mGET /images/Bream.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:46:27] "[33mGET /images/Parkki.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:46:27] "[33mGET /images/Perch.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:46:27] "[33mGET /images/Pike.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:46:27] "[33mGET /images/Roach.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:46:27] "[33mGET /images/Smelt.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:46:27] "[33mGET /images/Whitefish.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:47:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:47:20] "[33mGET /Static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:47:20] "[33mGET /images/Bream.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:47:20] "[33mGET /images/Parkki.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:47:20] "[33mGET /images/Perch.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:47:20] "[33mGET /images/Pike.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:47:20] "[33mGET /images/Roach.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:47:20] "[33mGET /images/Smelt.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:47:20] "[33mGET /images/Whitefish.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:50:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:50:15] "[33mGET /Static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:50:15] "[33mGET /images/Bream.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:50:15] "[33mGET /images/Parkki.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:50:15] "[33mGET /images/Perch.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:50:15] "[33mGET /images/Pike.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:50:15] "[33mGET /images/Roach.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:50:15] "[33mGET /images/Smelt.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:50:15] "[33mGET /images/Whitefish.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:50:17] "[33mGET /Classification.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:50:54] "[33mGET /classification.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:59:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:59:46] "[33mGET /home/classification.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 21:59:57] "[33mGET /classification/classification.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:00:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:00:30] "[33mGET /Static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:00:30] "[33mGET /images/Bream.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:00:30] "[33mGET /images/Parkki.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:00:30] "[33mGET /images/Perch.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:00:30] "[33mGET /images/Pike.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:00:30] "[33mGET /images/Roach.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:00:30] "[33mGET /images/Smelt.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:00:30] "[33mGET /images/Whitefish.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:00:32] "[33mGET /Classification.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:01:31] "[33mGET /Classification.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:01:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:01:36] "[33mGET /Static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:01:36] "[33mGET /images/Bream.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:01:36] "[33mGET /images/Parkki.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:01:36] "[33mGET /images/Perch.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:01:36] "[33mGET /images/Pike.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:01:36] "[33mGET /images/Roach.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:01:36] "[33mGET /images/Smelt.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:01:36] "[33mGET /images/Whitefish.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:01:39] "[33mGET /classification.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:01:45] "[33mGET /regression.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:02:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:02:26] "[33mGET /images/Bream.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:02:26] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:02:26] "[33mGET /images/Parkki.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:02:26] "[33mGET /images/Perch.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:02:26] "[33mGET /images/Pike.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:02:26] "[33mGET /images/Roach.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:02:26] "[33mGET /images/Smelt.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:02:26] "[33mGET /images/Whitefish.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:02:33] "[33mGET /classification.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:04:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:04:46] "[33mGET /images/Bream.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:04:46] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:04:46] "[33mGET /images/Parkki.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:04:46] "[33mGET /images/Perch.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:04:46] "[33mGET /images/Pike.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:04:46] "[33mGET /images/Roach.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:04:46] "[33mGET /images/Smelt.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:04:46] "[33mGET /images/Whitefish.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:04:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:04:48] "[33mGET /classification.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:06:37] "GET /classification.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:06:37] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:06:37] "GET /static/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:06:58] "[33mGET /regression.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:07:44] "GET /regression.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:07:44] "[33mGET /images/Bream.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:07:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:07:44] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:07:49] "[33mGET /images/Parkki.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:07:51] "[33mPOST /predict_weight HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:07:52] "[33mPOST /predict_weight HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:07:53] "[33mPOST /predict_weight HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:07:54] "[33mPOST /predict_weight HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:19:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:19:06] "[33mGET /static/images/Bream.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:19:06] "[33mGET /static/images/Parkki.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:19:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:19:06] "[33mGET /static/images/Perch.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:19:06] "[33mGET /static/images/Pike.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:19:06] "[33mGET /static/images/Roach.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:19:06] "[33mGET /static/images/Smelt.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:19:06] "[33mGET /static/images/Whitefish.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:19:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:19:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:19:51] "GET /static/images/Parkki.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:19:51] "GET /static/images/Perch.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:19:51] "GET /static/images/Bream.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:19:51] "GET /static/images/Roach.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:19:51] "GET /static/images/Smelt.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:19:51] "GET /static/images/Pike.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:19:51] "GET /static/images/Whitefish.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:19:57] "GET /regression.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:19:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:19:57] "[36mGET /static/images/Bream.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:19:57] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:21:11] "[33mPOST /predict_weight HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:21:12] "[33mPOST /predict_weight HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:21:21] "[33mPOST /predict_weight HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:21:22] "[33mPOST /predict_weight HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:21:27] "GET /regression.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:21:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:21:27] "[36mGET /static/images/Bream.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:21:27] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:21:31] "GET /classification.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:21:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:21:31] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:21:41] "[33mPOST /predict_species HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:35:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:35:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:35:15] "[36mGET /static/images/Bream.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:35:15] "[36mGET /static/images/Parkki.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:35:15] "[36mGET /static/images/Perch.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:35:15] "[36mGET /static/images/Pike.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:35:15] "[36mGET /static/images/Roach.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:35:15] "[36mGET /static/images/Smelt.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:35:15] "[36mGET /static/images/Whitefish.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:35:17] "GET /classification.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:35:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:35:17] "GET /static/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:35:24] "[31m[1mPOST /static/predict_species HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:35:25] "[31m[1mPOST /static/predict_species HTTP/1.1[0m" 405 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:52:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:52:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:52:27] "[36mGET /static/images/Bream.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:52:27] "[36mGET /static/images/Parkki.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:52:27] "[36mGET /static/images/Perch.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:52:27] "[36mGET /static/images/Pike.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:52:27] "[36mGET /static/images/Roach.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:52:27] "[36mGET /static/images/Smelt.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:52:27] "[36mGET /static/images/Whitefish.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:52:29] "GET /classification.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:52:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:52:29] "GET /static/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:52:29] "[33mGET /get_model_training_details HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:52:29] "[33mGET /get_model_details HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 22:52:36] "[33mPOST /predict_species HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:00:58] "[33mPOST /predict_species HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:34:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:34:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:34:17] "[36mGET /static/images/Bream.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:34:17] "[36mGET /static/images/Parkki.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:34:17] "[36mGET /static/images/Pike.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:34:17] "[36mGET /static/images/Perch.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:34:17] "[36mGET /static/images/Roach.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:34:17] "[36mGET /static/images/Smelt.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:34:17] "[36mGET /static/images/Whitefish.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:34:20] "GET /classification.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:34:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:34:20] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:34:20] "GET /get_model_training_details HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:34:20] "GET /get_model_details HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:34:32] "[33mPOST /predict_species HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:40:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:40:51] "[36mGET /static/images/Bream.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:40:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:40:51] "[36mGET /static/images/Parkki.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:40:51] "[36mGET /static/images/Perch.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:40:51] "[36mGET /static/images/Smelt.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:40:51] "[36mGET /static/images/Whitefish.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:40:51] "[36mGET /static/images/Pike.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:40:51] "[36mGET /static/images/Roach.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:40:53] "GET /classification.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:40:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:40:53] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:40:53] "[33mGET /get_model_training_details HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:40:53] "GET /get_model_details HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:41:01] "[33mPOST /predict_species HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:56:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:56:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:56:23] "[36mGET /static/images/Bream.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:56:23] "[36mGET /static/images/Parkki.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:56:23] "[36mGET /static/images/Perch.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:56:23] "[36mGET /static/images/Pike.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:56:23] "[36mGET /static/images/Roach.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:56:23] "[36mGET /static/images/Smelt.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:56:23] "[36mGET /static/images/Whitefish.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:56:26] "GET /classification.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:56:26] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:56:26] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:56:26] "[33mGET /get_model_training_details HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:56:26] "GET /get_model_details HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:56:33] "[33mPOST /predict_species HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:56:34] "[33mPOST /predict_species HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:57:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:57:56] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:57:56] "[36mGET /static/images/Parkki.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:57:56] "[36mGET /static/images/Bream.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:57:56] "[36mGET /static/images/Pike.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:57:56] "[36mGET /static/images/Roach.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:57:56] "[36mGET /static/images/Smelt.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:57:56] "[36mGET /static/images/Perch.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:57:56] "[36mGET /static/images/Whitefish.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:57:58] "GET /classification.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:57:58] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:57:58] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:57:58] "[33mGET /get_model_training_details HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:57:58] "GET /get_model_details HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:58:04] "[33mPOST /predict_species HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:59:44] "[35m[1mGET /classification.html HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:59:44] "GET /classification.html?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:59:44] "GET /classification.html?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:59:44] "GET /classification.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:59:44] "[36mGET /classification.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:59:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:59:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:59:50] "[36mGET /static/images/Bream.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:59:50] "[36mGET /static/images/Parkki.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:59:50] "[36mGET /static/images/Perch.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:59:50] "[36mGET /static/images/Pike.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:59:50] "[36mGET /static/images/Roach.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:59:50] "[36mGET /static/images/Smelt.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:59:50] "[36mGET /static/images/Whitefish.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:59:52] "[35m[1mGET /classification.html HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:59:52] "[36mGET /classification.html?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:59:52] "[36mGET /classification.html?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 23:59:52] "[36mGET /classification.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:00:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:00:36] "[36mGET /static/images/Bream.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:00:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:00:36] "[36mGET /static/images/Parkki.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:00:36] "[36mGET /static/images/Perch.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:00:36] "[36mGET /static/images/Pike.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:00:36] "[36mGET /static/images/Roach.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:00:36] "[36mGET /static/images/Smelt.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:00:36] "[36mGET /static/images/Whitefish.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:00:38] "[35m[1mGET /classification.html HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:00:38] "[36mGET /classification.html?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:00:38] "[36mGET /classification.html?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:00:38] "[36mGET /classification.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:02:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:02:49] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:02:49] "[36mGET /static/images/Bream.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:02:49] "[36mGET /static/images/Parkki.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:02:49] "[36mGET /static/images/Perch.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:02:49] "[36mGET /static/images/Pike.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:02:49] "[36mGET /static/images/Roach.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:02:49] "[36mGET /static/images/Smelt.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:02:49] "[36mGET /static/images/Whitefish.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:02:51] "GET /classification.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:02:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:02:51] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:02:51] "[33mGET /get_model_training_details HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:02:51] "GET /get_model_details HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:02:58] "[33mPOST /predict_species HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:03:04] "[33mPOST /predict_species HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:03:41] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:03:43] "[33mPOST /predict_species HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:03:48] "[33mPOST /predict_species HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:05:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:05:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:05:51] "[36mGET /static/images/Bream.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:05:51] "[36mGET /static/images/Parkki.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:05:51] "[36mGET /static/images/Pike.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:05:51] "[36mGET /static/images/Roach.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:05:51] "[36mGET /static/images/Smelt.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:05:51] "[36mGET /static/images/Perch.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:05:51] "[36mGET /static/images/Whitefish.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:05:53] "GET /classification.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:05:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:05:53] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:05:53] "[33mGET /get_model_training_details HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:05:53] "GET /get_model_details HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:06:00] "[35m[1mPOST /predict_species HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:07:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:07:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:07:42] "[36mGET /static/images/Bream.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:07:42] "[36mGET /static/images/Parkki.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:07:42] "[36mGET /static/images/Pike.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:07:42] "[36mGET /static/images/Roach.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:07:42] "[36mGET /static/images/Smelt.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:07:42] "[36mGET /static/images/Perch.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:07:42] "[36mGET /static/images/Whitefish.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:07:44] "GET /classification.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:07:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:07:44] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:07:44] "[33mGET /get_model_training_details HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:07:44] "GET /get_model_details HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:07:51] "[35m[1mPOST /predict_species HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:13:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:13:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:13:47] "[36mGET /static/images/Bream.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:13:47] "[36mGET /static/images/Parkki.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:13:47] "[36mGET /static/images/Pike.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:13:47] "[36mGET /static/images/Roach.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:13:47] "[36mGET /static/images/Smelt.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:13:47] "[36mGET /static/images/Perch.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:13:47] "[36mGET /static/images/Whitefish.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:13:50] "GET /regression.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:13:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:13:50] "[36mGET /static/images/Bream.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:13:50] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:13:59] "POST /predict_weight HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:14:10] "GET /classification.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:14:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:14:10] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:14:10] "[33mGET /get_model_training_details HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:14:10] "GET /get_model_details HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:14:16] "[35m[1mPOST /predict_species HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:16:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:16:15] "[36mGET /static/images/Bream.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:16:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:16:15] "[36mGET /static/images/Parkki.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:16:15] "[36mGET /static/images/Pike.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:16:15] "[36mGET /static/images/Roach.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:16:15] "[36mGET /static/images/Smelt.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:16:15] "[36mGET /static/images/Perch.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:16:15] "[36mGET /static/images/Whitefish.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:16:17] "GET /classification.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:16:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:16:17] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:16:17] "[33mGET /get_model_training_details HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:16:17] "GET /get_model_details HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:16:24] "[35m[1mPOST /predict_species HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:18:00] "GET /classification.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:18:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:18:00] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:18:00] "[33mGET /get_model_training_details HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:18:00] "GET /get_model_details HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:18:07] "[35m[1mPOST /predict_species HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:20:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:20:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:20:28] "[36mGET /static/images/Bream.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:20:28] "[36mGET /static/images/Parkki.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:20:28] "[36mGET /static/images/Pike.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:20:28] "[36mGET /static/images/Roach.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:20:28] "[36mGET /static/images/Smelt.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:20:28] "[36mGET /static/images/Perch.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:20:28] "[36mGET /static/images/Whitefish.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:20:30] "GET /classification.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:20:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:20:31] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:20:31] "[33mGET /get_model_training_details HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:20:31] "GET /get_model_details HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:20:37] "[35m[1mPOST /predict_species HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:22:49] "GET /classification.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:22:49] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:22:49] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:22:49] "[33mGET /get_model_training_details HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:22:49] "GET /get_model_details HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:22:58] "[35m[1mPOST /predict_species HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:32:08] "GET /classification.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:32:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:32:08] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:32:08] "[33mGET /get_model_training_details HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:32:08] "GET /get_model_details HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:32:16] "[35m[1mPOST /predict_species HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:38:23] "GET /classification.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:38:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:38:23] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:38:23] "[33mGET /get_model_training_details HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:38:23] "GET /get_model_details HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:38:31] "POST /predict_species HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:38:31] "[33mGET /static/images/undefined HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:48:23] "POST /predict_species HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:48:23] "[33mGET /static/images/undefined HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:48:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:48:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:48:29] "[36mGET /static/images/Bream.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:48:29] "[36mGET /static/images/Parkki.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:48:29] "[36mGET /static/images/Perch.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:48:29] "[36mGET /static/images/Pike.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:48:29] "[36mGET /static/images/Roach.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:48:29] "[36mGET /static/images/Smelt.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:48:29] "[36mGET /static/images/Whitefish.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:48:31] "GET /classification.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:48:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:48:31] "GET /static/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:48:31] "[33mGET /get_model_training_details HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:48:31] "GET /get_model_details HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:48:37] "POST /predict_species HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:48:37] "[33mGET /static/images/undefined HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:51:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:51:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:51:20] "[36mGET /static/images/Bream.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:51:20] "[36mGET /static/images/Parkki.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:51:20] "[36mGET /static/images/Perch.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:51:20] "[36mGET /static/images/Pike.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:51:20] "[36mGET /static/images/Roach.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:51:20] "[36mGET /static/images/Whitefish.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:51:20] "[36mGET /static/images/Smelt.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:51:22] "GET /classification.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:51:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:51:22] "GET /static/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:51:22] "[33mGET /get_model_training_details HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:51:22] "GET /get_model_details HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:51:29] "POST /predict_species HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:51:29] "GET /static/images/bream.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 00:53:06] "POST /predict_species HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:05:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:05:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:05:23] "[36mGET /static/images/Bream.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:05:23] "[36mGET /static/images/Parkki.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:05:23] "[36mGET /static/images/Perch.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:05:23] "[36mGET /static/images/Pike.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:05:23] "[36mGET /static/images/Roach.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:05:23] "[36mGET /static/images/Smelt.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:05:23] "[36mGET /static/images/Whitefish.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:05:27] "GET /classification.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:05:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:05:27] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:05:27] "[33mGET /get_model_training_details HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:05:27] "GET /get_model_details HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:05:37] "[35m[1mPOST /predict_species HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:05:40] "[35m[1mPOST /predict_species HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:06:48] "POST /predict_species HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:06:48] "GET /static/images/smelt.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:08:15] "POST /predict_species HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:08:15] "GET /static/images/perch.jpg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:10:44] "POST /predict_species HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:13:52] "GET /classification.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:13:52] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:13:52] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:13:52] "GET /get_model_training_details HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:13:52] "[33mGET /get_model_details HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:29:40] "GET /classification.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:29:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:29:40] "GET /static/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:29:40] "GET /get_model_training_details?modelType=Classification HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:32:00] "GET /classification.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:32:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:32:00] "GET /static/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:32:00] "GET /get_model_training_details?modelType=Classification HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:32:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:32:09] "[36mGET /static/images/Bream.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:32:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:32:09] "[36mGET /static/images/Parkki.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:32:09] "[36mGET /static/images/Perch.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:32:09] "[36mGET /static/images/Pike.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:32:09] "[36mGET /static/images/Roach.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:32:09] "[36mGET /static/images/Smelt.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:32:09] "[36mGET /static/images/Whitefish.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:32:12] "GET /regression.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:32:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:32:12] "[36mGET /static/images/Bream.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:32:12] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:32:12] "GET /get_model_training_details?modelType=Regression HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:32:23] "GET /classification.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:32:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:32:23] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2024 01:32:23] "GET /get_model_training_details?modelType=Classification HTTP/1.1" 200 -

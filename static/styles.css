@@ -1,0 +1,114 @@
+/* File Path: FishPrediction/Static/styles.css */
+
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+/* Model Details Section */
+.model-details {
+    margin-bottom: 30px;
+}
+
+.model-details h2 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.model-details p {
+    margin: 5px 0;
+}
+
+/* Form Styles */
+form {
+    margin-bottom: 30px;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+form h2 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+form input[type="text"],
+form input[type="number"],
+form button {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+form button {
+    background-color: #007bff;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+form button:hover {
+    background-color: #0056b3;
+}
+
+/* Result Display Styles */
+#result {
+    text-align: center;
+}
+
+#result h2 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+#result p {
+    margin: 5px 0;
+}
+
+#result img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 15px;
+}
+
+/* Additional Styles */
+@media screen and (min-width: 768px) {
+    main {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+    .model-details,
+    form {
+        width: 50%;
+    }
+}

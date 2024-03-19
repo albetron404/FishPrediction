@@ -1,0 +1,102 @@
+<!-- File Path: FishPrediction/templates/index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fish Prediction Home</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <style>
+        /* Additional CSS for index.html */
+        .fish-images {
+            margin-bottom: 20px;
+        }
+        .species-images {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+        .species-images img {
+            width: 6cm;
+            height: 6cm;
+            margin-bottom: 10px;
+        }
+        .species-images img:last-child {
+            margin-bottom: 0;
+        }
+        .species-name {
+            text-align: center;
+            font-size: 14px;
+            margin-top: 5px;
+        }
+        .actions {
+            text-align: center;
+        }
+        .buttons .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-right: 10px;
+            transition: background-color 0.3s ease;
+        }
+        .buttons .btn:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Fish Prediction</h1>
+    </header>
+    <main>
+        <section class="fish-images">
+            <h2>Explore Fish Species</h2>
+            <div class="species-images">
+                <div>
+                    <img src="{{ url_for('static', filename='images/Bream.jpg') }}" alt="Bream">
+                    <p class="species-name">Bream</p>
+                </div>
+                <div>
+                    <img src="{{ url_for('static', filename='images/Parkki.jpg') }}" alt="Parkki">
+                    <p class="species-name">Parkki</p>
+                </div>
+                <div>
+                    <img src="{{ url_for('static', filename='images/Perch.jpg') }}" alt="Perch">
+                    <p class="species-name">Perch</p>
+                </div>
+                <div>
+                    <img src="{{ url_for('static', filename='images/Pike.jpg') }}" alt="Pike">
+                    <p class="species-name">Pike</p>
+                </div>
+                <div>
+                    <img src="{{ url_for('static', filename='images/Roach.jpg') }}" alt="Roach">
+                    <p class="species-name">Roach</p>
+                </div>
+                <div>
+                    <img src="{{ url_for('static', filename='images/Smelt.jpg') }}" alt="Smelt">
+                    <p class="species-name">Smelt</p>
+                </div>
+                <div>
+                    <img src="{{ url_for('static', filename='images/Whitefish.jpg') }}" alt="Whitefish">
+                    <p class="species-name">Whitefish</p>
+                </div>
+            </div>
+        </section>
+        <section class="actions">
+            <h2>What would you like to do?</h2>
+            <div class="buttons">
+                <a href="classification.html" class="btn">Species Identification (Classification)</a>
+                <a href="regression.html" class="btn">Species Weight Prediction (Regression)</a>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Fish Prediction</p>
+    </footer>
+</body>
+</html>
