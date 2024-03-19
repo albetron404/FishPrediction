@@ -2,7 +2,7 @@
     "Regression": [
         {
             "Model Name": "regression_model.sav",
-            "Model train date": "2024-03-19 01:04:09",
+            "Model train date": "2024-03-19 02:13:44",
             "Model Evaluation Metric": "RMSE",
             "Model Evaluation Metric Value": 65.83314806889885
         }
@@ -10,7 +10,7 @@
     "Classification": [
         {
             "Model Name": "classification_model.sav",
-            "Model train date": "2024-03-19 01:04:30",
+            "Model train date": "2024-03-19 02:14:32",
             "Model Evaluation Metric": "Accuracy",
             "Model Evaluation Metric Value": 0.8125
         }
